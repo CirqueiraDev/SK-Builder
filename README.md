@@ -65,7 +65,7 @@ python main.py
 
 ---
 
- ### owner CirqueiraDev:
+ ### Owner CirqueiraDev:
  - **Discord: Cirqueira**
  - You can contact me on [**Telegram**](https://t.me/cirqueiradev) or [**Instagram**](https://www.instagram.com/sirkeirax/)
  - **Small Community about IT world, leaks and more**: [**RootNet**](https://discord.gg/r7EGGCp6sC)
