@@ -28,3 +28,46 @@ The maintainers are not responsible for any damage, harm, or misuse resulting fr
 
 By downloading or using this repository, the user automatically assumes FULL responsibility for their actions.</pre>
 </div>
+
+---
+
+<div align="center">
+ <h1>How install</h1>
+</div>
+
+### Requirements:
+```
+requests
+psutil
+browser_cookie3
+cryptography
+pywin32
+pycryptodomex
+opencv-python
+PyQt5
+```
+### Commands:
+```
+git clone https://github.com/CirqueiraDev/SK-Builder
+```
+
+```
+cd SK-Builder
+```
+
+```
+pip install requests psutil browser_cookie3 cryptography pywin32 pycryptodomex opencv-python PyQt5
+```
+
+```
+python main.py
+```
+
+---
+
+ ### owner CirqueiraDev:
+ - **Discord: Cirqueira**
+ - You can contact me on [**Telegram**](https://t.me/cirqueiradev) or [**Instagram**](https://www.instagram.com/sirkeirax/)
+ - **Small Community about IT world, leaks and more**: [**RootNet**](https://discord.gg/r7EGGCp6sC)
+
+> **Remember: All information and code provided on this profile are for educational purposes only. The creator is not responsible for any direct or indirect damage resulting from misuse of this material. Whatever you choose to do is entirely at your own risk and responsibility.**
