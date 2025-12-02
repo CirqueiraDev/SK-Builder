@@ -4,7 +4,7 @@
  </h1>
 </div>
 
-![banner](https://github.com/user-attachments/assets/2e49d179-c83e-4a0d-b27b-11af3d8bf8df)
+<img width="1099" height="618" alt="image" src="https://github.com/user-attachments/assets/7382fb73-ab37-490b-bda4-aec3fe612a61" />
 
 <br>
 
