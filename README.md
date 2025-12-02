@@ -4,7 +4,9 @@
  </h1>
 </div>
 
-![banner](https://github.com/user-attachments/assets/332558f1-595a-4253-a293-75edaffd307b)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/332558f1-595a-4253-a293-75edaffd307b" width="100%" />
+</p>
 
 <br>
 
