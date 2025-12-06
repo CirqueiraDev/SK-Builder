@@ -231,12 +231,13 @@ if __name__ == '__main__':
         write("[5/6] Obfuscating code...")
         protected_code = Tools.obfuscate_code(sk_code, compress)
 
+        warn = "# The requirements inside the payload will still need to be installed; I recommend compiling it into an .exe"
         base_path = file_name
         py_path = base_path + ".py"
 
         write(f"→ Writing output: {py_path}")
         with open(py_path, "w", encoding="utf-8") as f:
-            f.write(part1 + protected_code)
+            f.write(warn + '\n' + protected_code)
 
         if file_type == "py":
             write("✓ Build completed: .py generated successfully.")
@@ -326,3 +327,4 @@ if __name__ == '__main__':
         write("✗ ERROR: invalid file_type")
 
         return False
+
